@@ -20,7 +20,7 @@
 - 🎓 **B.Tech CSE (AI & ML)** at Vishwakarma Institute of Information Technology, Pune (2023–2027) | CGPA: **8.62**
 - 🌱 Passionate about **Machine Learning**, **Data Analytics**, and **Generative AI**
 - 🔭 Currently building projects in **Explainable AI**, **NLP**, and **End-to-End ML Pipelines**
-- 🏆 **SmartBridge Experintial Learning** certified | **IBM Generative AI** certified | **Tableau BI Analyst** certified
+- 🏆 **NASSCOM FutureSkills** certified | **IBM Generative AI** certified | **Tableau BI Analyst** certified
 - 💬 Ask me about **Python, Scikit-learn, Pandas, Streamlit, Power BI**
 - 📫 Reach me at **pratikghadge728@gmail.com**
 
@@ -39,7 +39,7 @@
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3ECF8E?style=flat-square&logo=python&logoColor=white)
 
@@ -55,7 +55,7 @@
 
 **Frameworks & Tools**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
@@ -70,7 +70,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🌱 AI Crop Recommendation System](https://github.com/p-r-a-t-i-k-ghadge/crop-recommendation-app) | ML + XAI + Local LLM decision support system for smart farming across 22 crop classes | Python, Scikit-learn, XAI, Ollama, Streamlit |
-| [🔥 Electric Motor Temp Prediction](https://github.com/p-r-a-t-i-k-ghadge/SmartBridge-Project-VIT) | Flask-based ML app predicting PMSM rotor temperature from real-time motor parameters | Python, Flask, Scikit-learn, Pandas |
+| [🔥 Electric Motor Temp Prediction](https://github.com/p-r-a-t-i-k-ghadge/SmartBridge-Project-VIT) | Flask-based ML app predicting PMSM rotor temperature from real-time motor parameters | Python, FastAPI, Scikit-learn, Pandas |
 | [🎬 Movie Recommendation System](https://github.com/p-r-a-t-i-k-ghadge/movie-recommender) | Content-based filtering engine on TMDB 5000 dataset using NLP + Cosine Similarity | Python, NLTK, Scikit-learn, Streamlit |
 | [📊 Superstore Sales Dashboard](https://github.com/p-r-a-t-i-k-ghadge/superstore-sales-dashboard) | End-to-end EDA with 8 interactive business intelligence analyses | Python, Pandas, Plotly, Seaborn |
 | [📉 Customer Churn Prediction](https://github.com/p-r-a-t-i-k-ghadge/Customer-Churn-Prediction) | Random Forest churn predictor with 80% accuracy and interactive Streamlit dashboard | Python, Scikit-learn, Streamlit |
@@ -106,4 +106,3 @@
 </p>
 
 <p align="center">⭐ <i>If you find my projects useful, consider giving them a star!</i> ⭐</p>
-
