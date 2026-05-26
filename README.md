@@ -20,7 +20,7 @@
 - 🎓 **B.Tech CSE (AI & ML)** at Vishwakarma Institute of Information Technology, Pune (2023–2027) | CGPA: **8.62**
 - 🌱 Passionate about **Machine Learning**, **Data Analytics**, and **Generative AI**
 - 🔭 Currently building projects in **Explainable AI**, **NLP**, and **End-to-End ML Pipelines**
-- 🏆 **NASSCOM FutureSkills** certified | **IBM Generative AI** certified | **Tableau BI Analyst** certified
+- 🏆 **SmartBridge Experintial Learning** certified | **IBM Generative AI** certified | **Tableau BI Analyst** certified
 - 💬 Ask me about **Python, Scikit-learn, Pandas, Streamlit, Power BI**
 - 📫 Reach me at **pratikghadge728@gmail.com**
 
